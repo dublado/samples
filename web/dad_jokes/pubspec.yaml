@@ -6,7 +6,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.12.0
+  http: ^0.13.6
 
 dev_dependencies:
   pedantic: ^1.8.0
